@@ -1,0 +1,12 @@
+.blue-background {
+  background-color: rgb(140, 170, 219);
+  padding: 3%;
+}
+
+body {
+  background-color: rgb(238, 238, 238);
+}
+
+.heart {
+  color: red;
+}
