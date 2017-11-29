@@ -30,11 +30,11 @@ _Make tour titles clickable links._
 * _Bootstrap_
 
 ## Support and contact details
-_If you have any updates, questions, or suggestions please contact [Margaret] or make a contribution._
+_If you have any updates, questions, or suggestions please contact [Margaret] or Riki or make a contribution._
 
 [Margaret]: mailto:margaretshelaghmcgovern@gmail.com
 
 ### License
 This software is licensed under the MIT License
 
-Copyright (c) 2017 Margaret Berry
+Copyright (c) 2017 Margaret Berry and Riki Montgomery
