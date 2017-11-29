@@ -1,6 +1,6 @@
 # Prague Vacation
 
-#### _A travel website detailing possible vacations to Prague, 08.02.2017_
+#### _A travel website detailing possible vacations to Prague, 08.03.2017_
 
 ## Setup and Installation Instructions
 _Run the following commands in Terminal:_
